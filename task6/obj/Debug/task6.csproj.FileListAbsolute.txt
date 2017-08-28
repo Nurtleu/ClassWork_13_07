@@ -1,0 +1,5 @@
+c:\Users\ОмиржанН\documents\visual studio 2017\Projects\Practica\task6\bin\Debug\task6.exe.config
+c:\Users\ОмиржанН\documents\visual studio 2017\Projects\Practica\task6\bin\Debug\task6.exe
+c:\Users\ОмиржанН\documents\visual studio 2017\Projects\Practica\task6\bin\Debug\task6.pdb
+c:\Users\ОмиржанН\documents\visual studio 2017\Projects\Practica\task6\obj\Debug\task6.exe
+c:\Users\ОмиржанН\documents\visual studio 2017\Projects\Practica\task6\obj\Debug\task6.pdb

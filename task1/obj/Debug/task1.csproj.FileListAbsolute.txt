@@ -1,0 +1,11 @@
+c:\users\омиржанн\documents\visual studio 2017\Projects\Practica\Practica\bin\Debug\Practica.exe.config
+c:\users\омиржанн\documents\visual studio 2017\Projects\Practica\Practica\bin\Debug\Practica.exe
+c:\users\омиржанн\documents\visual studio 2017\Projects\Practica\Practica\bin\Debug\Practica.pdb
+c:\users\омиржанн\documents\visual studio 2017\Projects\Practica\Practica\obj\Debug\Practica.exe
+c:\users\омиржанн\documents\visual studio 2017\Projects\Practica\Practica\obj\Debug\Practica.pdb
+E:\C#\Practica\Practica\bin\Debug\Practica.exe.config
+E:\C#\Practica\Practica\obj\Debug\Practica.exe
+E:\C#\Practica\Practica\obj\Debug\Practica.pdb
+E:\C#\Practica\Practica\bin\Debug\Practica.exe
+E:\C#\Practica\Practica\bin\Debug\Practica.pdb
+E:\C#\Practica\Practica\obj\Debug\task1.csprojResolveAssemblyReference.cache

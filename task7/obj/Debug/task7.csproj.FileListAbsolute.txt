@@ -1,0 +1,5 @@
+E:\C#\Practica\task7\bin\Debug\task7.exe.config
+E:\C#\Practica\task7\bin\Debug\task7.exe
+E:\C#\Practica\task7\bin\Debug\task7.pdb
+E:\C#\Practica\task7\obj\Debug\task7.exe
+E:\C#\Practica\task7\obj\Debug\task7.pdb

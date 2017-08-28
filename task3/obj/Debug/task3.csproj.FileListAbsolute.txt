@@ -1,0 +1,5 @@
+c:\Users\ОмиржанН\documents\visual studio 2017\Projects\Practica\task3\bin\Debug\task3.exe.config
+c:\Users\ОмиржанН\documents\visual studio 2017\Projects\Practica\task3\bin\Debug\task3.exe
+c:\Users\ОмиржанН\documents\visual studio 2017\Projects\Practica\task3\bin\Debug\task3.pdb
+c:\Users\ОмиржанН\documents\visual studio 2017\Projects\Practica\task3\obj\Debug\task3.exe
+c:\Users\ОмиржанН\documents\visual studio 2017\Projects\Practica\task3\obj\Debug\task3.pdb
