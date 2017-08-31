@@ -7,7 +7,7 @@ using static System.Console;
 
 namespace task7
 {
-    class task7
+    class Programm
     {
         static void Main(string[] args)
         {

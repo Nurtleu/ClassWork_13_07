@@ -7,7 +7,7 @@ using static System.Console;
 
 namespace task5
 {
-    class task5
+    class Programm
     {
         /*5.	Дано двузначное число. Найти:
             a.	число десятков в нем;
